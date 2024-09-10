@@ -5,3 +5,4 @@
 - A norma ISO/IEC/IEEE 12207:2017 possui um processo específico para projeto (design) de software? Se afirmativo, qual seria este processo?
   - Sim, a norma ISO/IEC/IEEE 12207:2017 possui um processo específico para projeto (design) de software. Este processo é chamado de "Design Definition Process", descrito na seção 6.4.5 da norma.
 - Qual a distinção entre o conceito de projeto no contexto de gerenciamento de projetos (project management) e para o contexto de design de software?
+  - A distinção entre o conceito de projeto no contexto de gerenciamento de projetos (project management) e no contexto de design de software está relacionada ao foco e aos objetivos de cada área, embora os dois conceitos compartilhem o uso do termo "projeto"
